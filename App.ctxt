@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=App
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ printMeanNSD(double[])
+comment2.text=\r\n\ F6\r\n\ Mean\ and\ SD\ calculation\r\n\ @param\ arr\ -\ \ pass\ double\ array\ as\ a\ parameter\r\n
+comment3.params=arr
+comment3.target=void\ printHNM(double[])
+comment3.text=\r\n\ F5\r\n\ This\ will\ generate\ Min\ and\ Max\ values\ from\ the\ given\ array\ parameter\r\n\ @param\ arr\ -\ double\ array\r\n
+numComments=4
